@@ -20,7 +20,7 @@ mongoose.connect(process.env.MONGODB_URI || "mongodb://localhost/tracker", {
 });
 
 // routes
-app.use(require("./routes/api.js"));
+app.use(require("./routes/api"));
 app.use(require("./routes/html.js"));
 
 app.listen(PORT, () => {
