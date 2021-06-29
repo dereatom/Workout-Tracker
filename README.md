@@ -24,6 +24,9 @@
   ## Usage
   A consumer will reach their fitness goals more quickly when they track their workout progress.
 
+ ## Deployed App
+  [Deployed-App](https://vast-ocean-10608.herokuapp.com/?id=60da8e83c63009001507391d)
+  
   ## Links
   ![Capture1](https://user-images.githubusercontent.com/77940481/123715181-bc64d580-d845-11eb-9d4a-67f7f44c8b05.JPG) ![Capture2](https://user-images.githubusercontent.com/77940481/123715188-c1c22000-d845-11eb-985e-1563225a3143.JPG) ![Capture3](https://user-images.githubusercontent.com/77940481/123715190-c38be380-d845-11eb-93e1-6fe56835cb60.JPG)
   
